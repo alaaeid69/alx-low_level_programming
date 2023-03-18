@@ -7,11 +7,15 @@
 */
 int main(void)
 {
-
-
-for (a = 0; a <= 10; a++)
-putchar(a);
+int c;
+c = 0;
+while
+	(c < 10) {
+		putchar(c);
+		c++;
+	}
 putchar('\n');
 return (0);
 
 }
+
