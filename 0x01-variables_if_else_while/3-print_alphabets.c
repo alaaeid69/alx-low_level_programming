@@ -22,7 +22,7 @@ while (d <= 'Z')
 putchar(d);
 d++;
 }
-putchar("\n");
+putchar('\n');
 return (0);
 
 }
